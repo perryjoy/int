@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1606879605 source:d:\study\5sem\int\pp\error.c
+	"error.h"
+	<stdio.h>
+
+1606879605 d:\study\5sem\int\pp\error.h
+	<stdio.h>
+
+1606919910 source:d:\study\5sem\int\pp\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"text.h"
+	"error.h"
+	"text_display.h"
+	"menu.h"
+	"main.h"
+	"menuID.h"
+
+1606919414 d:\study\5sem\int\pp\text.h
+	<windows.h>
+
+1606885142 d:\study\5sem\int\pp\text_display.h
+	<windows.h>
+
+1606962788 d:\study\5sem\int\pp\menu.h
+
+1606885722 d:\study\5sem\int\pp\main.h
+	<windows.h>
+
+1606884104 source:d:\study\5sem\int\pp\menu.c
+	<windows.h>
+	"menu.h"
+	"menuID.h"
+	"text_display.h"
+	"error.h"
+	"text.h"
+	"main.h"
+
+1606879605 d:\study\5sem\int\pp\menuid.h
+
+1606879605 source:d:\study\5sem\int\pp\menu.rc
+	"menuID.h"
+
+1606919414 source:d:\study\5sem\int\pp\text.c
+	"text.h"
+	"error.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607165402 source:d:\study\5sem\int\pp\text_display.c
+	"text_display.h"
+	"text.h"
+	"error.h"
+	<windows.h>
+	<commdlg.h>
+

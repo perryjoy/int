@@ -1,0 +1,4 @@
+EXPORTS
+    DllMain @1
+    ReadToBufferA @2
+    ReadToBufferW @3
